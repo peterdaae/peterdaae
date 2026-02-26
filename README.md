@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💻 Im a student in information technology with specialization within Web development and Apps<br><br>💻 Currently enrolled at Kristiania University College<br><br>💻 I work as a TA for 1st year Cybersecurity students alongside studies
+<br>💻 Im a student in information technology with specialization within Web development and Apps<br><br>💻 Currently enrolled at Kristiania University College<br><br>💻 I work as a TA for 1st year Cybersecurity students alongside my studies
 
 
 ## 🌐 Socials:
